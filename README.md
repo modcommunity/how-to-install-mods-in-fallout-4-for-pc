@@ -53,11 +53,23 @@ To back up your data, please perform the following steps.
 To download, run, and configure Vortex, please perform the following stpes.
 
 1. Download Vortex from [here](https://www.nexusmods.com/site/mods/1?tab=files).
-2. Run the installer and launch Vortex.
-3. It should automatically detect Fallout 4. If not:
-    1. Click the **Games** tab.
-    2. Search for Fallout 4, then click **Manage**.
-    3. Set the path to `Fallout4.exe`.
+    * Unless if you're a premium user, you will need to choose the **slow download** option.
+2. Run the installer.
+    * **Windows**: Ensure you have [.NET Desktop Runtime 6](https://aka.ms/dotnet/6.0/windowsdesktop-runtime-win-x64.exe) installed!
+    * Vortex may prompt and guide you on fixing issues.
+3. Now go to the **Games**  tab.
+4. Either find Fallout 4 from the **Unmanaged** list of games or search for it in the search box at the top.
+5. Click the **Manage** button located in the middle of the Fallout 4 game card.
+6. This will attempt to add support for the game.
+    * If Vortex has issues finding the game's location, follow the below steps:
+        1. Go to the **Games** tab through Vortex.
+        2. Find the game card under the **Managed** list.
+        3. Click the **three dots** button located to the top-right of the card.
+        4. Click **Manually Set Location**.
+        5. Select the location of your game install.
+    * Ensure you see the game's section in the left sidebar. If not, click the **Activate** button under the game card.
+
+Vortex should now be configured and installed for modding Fallout 4!
 
 ## Where To Download Mods
 The main source for Fallout 4 mods is [Nexus Mods](https://www.nexusmods.com/fallout4).
@@ -70,13 +82,17 @@ There are other less popular websites listed below.
 **TIP** - Always read the full mod description and user comments. Some mods require prerequisites, patches, or special installation steps.
 
 ## Installing Mods Through Vortex
-1. Log in to your Nexus Mods account in your browser.
-2. Find a mod and click **Mod Manager Download**.
-3. The file should open in Vortex.
-4. In Vortex:
-    * Go to the **Mods** tab.
-    * Enable the mod.
-    * Click **Deploy Mods** when prompted.
+1. Ensure you're logged into your Nexus Mods account through Vortex.
+    * You can click the **Login** button at the top-right of the application if not.
+3. Go to the mod's page you want to install on Nexus Mods' website.
+4. If Vortex is supported, you'll see a **Vortex** button next to the **Manual** button on the right side. Click this button.
+    * If you don't see a Vortex button, it means the mod is **not supported** through Vortex and you'll need to **manually install** the mod (instructions included below).
+5. Choose what download type you want (e.g., slow download).
+6. The file should open in Vortex automatically and start downloading.
+    * Go to the **Downloads** tab through Vortex to check the progress!
+7. The mod should be automatically installed.
+    * You can go to the **Mods** tab under the Fallout 4 section in the left sidebar to confirm if the mod is loaded.
+    * You can remove mods by clicking the **Remove** button located on the right side of the mod item.
 
 Launch Fallout 4 and confirm the mod is working!
 
@@ -135,4 +151,4 @@ Mods often times greatly enhances the Fallout 4 gameplay experience or adds a bu
 * [LOOT - Load Order Optimizer](https://loot.github.io/)
 * [Fallout 4 Modding Subreddit](https://www.reddit.com/r/FalloutMods/)
 
-This guide will be updated over time. Found an error or have feedback? Let us know!
+This guide will be updated and improved on over time. If you see any improvements that can be made, please feel free to reach out!
