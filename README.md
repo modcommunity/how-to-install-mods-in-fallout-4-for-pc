@@ -1,12 +1,8 @@
-<div align="center">
-
-![banner](./images/banner.jpg)
-
-</div>
-
 A guide on how to **install mods** in **Fallout 4** on PC. We've also included step-by-step instructions for using [Vortex](https://www.nexusmods.com/about/vortex/), the recommended mod manager by [Nexus Mods](https://www.nexusmods.com/fallout4), and how to install mods manually if preferred.
 
 This guide is focused on **Windows users**, but Linux users running Fallout 4 through **Steam Proton** and **Wine** should also find most instructions adaptable!
+
+[**View Guide On TMC (Recommended Due To Better Formatting)**](https://blog.moddingcommunity.com/how-to-install-mods-in-fallout-4/)
 
 ## Table Of Contents
 * [Requirements](#requirements)
