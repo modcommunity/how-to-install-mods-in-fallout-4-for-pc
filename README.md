@@ -2,7 +2,7 @@ A guide on how to **install mods** in **Fallout 4** on PC. We've also included s
 
 This guide is focused on **Windows users**, but Linux users running Fallout 4 through **Steam Proton** and **Wine** should also find most instructions adaptable!
 
-[**View Guide On TMC (Recommended Due To Better Formatting)**](https://blog.moddingcommunity.com/how-to-install-mods-in-fallout-4/)
+[**View Guide On TMC (Recommended Due To Better Formatting)**](https://moddingcommunity.com/blog/how-to-install-mods-in-fallout-4/)
 
 ## Table Of Contents
 * [Requirements](#requirements)
